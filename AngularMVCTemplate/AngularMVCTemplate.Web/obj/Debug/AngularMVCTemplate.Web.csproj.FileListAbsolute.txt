@@ -1,0 +1,190 @@
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Web.dll.config
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Web.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Web.pdb
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.AutoMapper.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Castle.Log4Net.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Api.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Common.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Mvc.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Application.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Core.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.EntityFramework.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.WebApi.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Antlr3.Runtime.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AutoMapper.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Core.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Facilities.Logging.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Windsor.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.DynamicFilters.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\JetBrains.Annotations.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\log4net.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Newtonsoft.Json.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Concurrent.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Collections.Immutable.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Linq.Dynamic.Core.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Helpers.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Mvc.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Optimization.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Razor.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\WebGrease.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.Common.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Application.pdb
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Application.dll.config
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Core.pdb
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Core.dll.config
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.EntityFramework.pdb
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.EntityFramework.dll.config
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.WebApi.pdb
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.WebApi.dll.config
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.AutoMapper.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Castle.Log4Net.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Api.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Common.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Mvc.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AutoMapper.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Core.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Facilities.Logging.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Windsor.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\JetBrains.Annotations.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\log4net.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Newtonsoft.Json.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Concurrent.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Collections.Immutable.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Linq.Dynamic.Core.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Helpers.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Mvc.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Optimization.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Razor.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.Common.xml
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.dll
+C:\Users\Guille\Desktop\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.pdb
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Web.dll.config
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Web.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Web.pdb
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.AutoMapper.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Castle.Log4Net.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Api.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Common.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Mvc.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Application.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Core.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.EntityFramework.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.WebApi.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Antlr3.Runtime.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AutoMapper.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Core.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Facilities.Logging.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Windsor.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.DynamicFilters.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\JetBrains.Annotations.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\log4net.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Newtonsoft.Json.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Concurrent.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Collections.Immutable.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Linq.Dynamic.Core.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Helpers.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Mvc.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Optimization.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Razor.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\WebGrease.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.Common.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Application.pdb
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Application.dll.config
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Core.pdb
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.Core.dll.config
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.EntityFramework.pdb
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.EntityFramework.dll.config
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.WebApi.pdb
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AngularMVCTemplate.WebApi.dll.config
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.AutoMapper.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Castle.Log4Net.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Api.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Common.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.Web.Mvc.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\AutoMapper.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Core.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Facilities.Logging.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Castle.Windsor.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\JetBrains.Annotations.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\log4net.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Newtonsoft.Json.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Concurrent.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Collections.Immutable.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Linq.Dynamic.Core.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Helpers.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Mvc.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Optimization.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.Razor.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.Common.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.csprojResolveAssemblyReference.cache
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.pdb

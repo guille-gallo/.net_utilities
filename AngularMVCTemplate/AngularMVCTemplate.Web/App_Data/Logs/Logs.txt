@@ -1,0 +1,1059 @@
+DEBUG 2017-08-02 15:24:24,865 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-02 15:24:24,882 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-02 15:24:24,889 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,891 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,891 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,891 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,891 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,891 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,892 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,892 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,892 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,892 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,892 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:24,895 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-02 15:24:25,295 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-02 15:24:27,937 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-02 15:24:27,967 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-02 15:24:27,968 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-02 15:24:28,028 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-02 15:24:28,324 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-02 15:24:28,453 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-02 15:24:28,463 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-07 05:39:05,247 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 05:39:05,280 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 05:39:05,288 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,290 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,292 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:05,296 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 05:39:05,652 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,375 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 05:39:15,668 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 05:39:15,675 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,677 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,677 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,678 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,678 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,678 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,679 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,679 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,679 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,679 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,680 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:15,683 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 05:39:16,492 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 05:39:19,021 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-07 05:39:19,052 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-07 05:39:19,053 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-07 05:39:19,108 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-07 05:39:19,321 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-07 05:39:24,832 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-07 05:39:24,845 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-07 06:35:16,661 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 06:35:16,680 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 06:35:16,687 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,689 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,690 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,690 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,690 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,690 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,691 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,691 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,691 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,691 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,691 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:16,695 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 06:35:17,027 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:35:18,192 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-07 06:35:18,219 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-07 06:35:18,221 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-07 06:35:18,224 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-07 06:35:18,408 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-07 06:35:22,663 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-07 06:35:22,675 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-07 06:39:10,438 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 06:39:10,773 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 06:39:10,780 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,783 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,784 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,785 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,785 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,785 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:10,789 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 06:39:11,619 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:39:11,843 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-07 06:39:11,880 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-07 06:39:11,882 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-07 06:39:11,885 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-07 06:39:12,141 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-07 06:39:14,837 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-07 06:39:14,848 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-07 06:43:35,086 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 06:43:35,399 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 06:43:35,406 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,410 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,410 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,410 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,410 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:35,414 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 06:43:36,234 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 06:43:36,480 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-07 06:43:36,498 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-07 06:43:36,499 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-07 06:43:36,502 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-07 06:43:36,758 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-07 06:43:39,508 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-07 06:43:39,519 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-07 17:12:08,865 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 17:12:08,954 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 17:12:08,960 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,962 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,962 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,962 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,962 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,964 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:08,966 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 17:12:09,281 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:12:11,398 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-07 17:12:11,406 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-07 17:12:11,407 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-07 17:12:11,489 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-07 17:12:11,833 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-07 17:12:18,008 [13   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-07 17:12:18,019 [13   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-07 17:20:46,075 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 17:20:46,092 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 17:20:46,098 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,100 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,100 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,101 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,101 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,101 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,101 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,101 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,102 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:46,105 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 17:20:46,407 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:20:47,205 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-07 17:20:47,228 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-07 17:20:47,230 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-07 17:20:47,234 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-07 17:20:47,421 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-07 17:20:50,660 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-07 17:20:50,674 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-07 17:21:59,099 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-07 17:21:59,117 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-07 17:21:59,123 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,125 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,126 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,126 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,126 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,126 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,126 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,127 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,127 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,127 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,127 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:21:59,130 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-07 17:21:59,454 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-07 17:22:00,262 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-07 17:22:00,280 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-07 17:22:00,281 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-07 17:22:00,284 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-07 17:22:00,455 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-07 17:22:04,462 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-07 17:22:04,474 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-08 09:50:07,155 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-08 09:50:07,186 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-08 09:50:07,193 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,195 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,195 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,196 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,196 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,196 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,196 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,197 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,197 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,197 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,197 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:07,200 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-08 09:50:07,534 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-08 09:50:08,458 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-08 09:50:08,467 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-08 09:50:08,469 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-08 09:50:08,471 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-08 09:50:08,657 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-08 09:50:12,600 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-08 09:50:12,615 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-09 12:43:16,019 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-09 12:43:16,052 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-09 12:43:16,058 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,061 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,061 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,061 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,061 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,061 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:16,066 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-09 12:43:16,385 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 12:43:17,479 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-09 12:43:17,500 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-09 12:43:17,501 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-09 12:43:17,550 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-09 12:43:17,757 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-09 12:43:22,368 [14   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-09 12:43:22,383 [14   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-09 13:48:05,593 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-09 13:48:05,630 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-09 13:48:05,637 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,639 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,640 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,641 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,641 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,641 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:05,644 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-09 13:48:05,974 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 13:48:07,059 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-09 13:48:07,067 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-09 13:48:07,068 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-09 13:48:07,134 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-09 13:48:07,336 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-09 13:48:11,474 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-09 13:48:11,489 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-09 14:04:09,157 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-09 14:04:09,177 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-09 14:04:09,183 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,186 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,187 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,187 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,187 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,187 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,187 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:09,190 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-09 14:04:09,504 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:04:10,325 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-09 14:04:10,334 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-09 14:04:10,346 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-09 14:04:10,349 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-09 14:04:10,533 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-09 14:04:14,323 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-09 14:04:14,335 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-09 14:14:12,659 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-09 14:14:12,953 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-09 14:14:12,960 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,962 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,963 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,964 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,964 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,964 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,965 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,965 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:12,968 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-09 14:14:13,793 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:14:13,924 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-09 14:14:13,941 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-09 14:14:13,942 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-09 14:14:13,945 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-09 14:14:14,183 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-09 14:14:16,647 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-09 14:14:16,662 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-09 14:22:36,584 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-09 14:22:36,606 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-09 14:22:36,613 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,615 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,618 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:36,621 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-09 14:22:36,934 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:22:37,728 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-09 14:22:37,771 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-09 14:22:37,773 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-09 14:22:37,776 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-09 14:22:37,959 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-09 14:22:41,550 [13   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-09 14:22:41,564 [13   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-09 14:29:18,978 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-09 14:29:18,998 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-09 14:29:19,005 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,009 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,009 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,009 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,009 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,010 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,010 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,010 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,011 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,011 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,011 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:19,014 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-09 14:29:19,339 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:29:20,200 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-09 14:29:20,221 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-09 14:29:20,222 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-09 14:29:20,225 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-09 14:29:20,411 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-09 14:29:30,020 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-09 14:29:30,038 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-09 14:37:40,159 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-09 14:37:42,153 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-09 14:37:42,160 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,162 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,162 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,163 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,163 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,163 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,164 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,164 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,164 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,164 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,165 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:42,168 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-09 14:37:47,496 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-09 14:37:47,631 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-09 14:37:47,640 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-09 14:37:47,649 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-09 14:37:47,652 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-09 14:37:48,093 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-09 14:37:48,445 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-09 14:37:48,455 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 04:40:01,137 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 04:40:01,949 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 04:40:01,955 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,957 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:01,962 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 04:40:03,591 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 04:40:03,741 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 04:40:03,750 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 04:40:03,751 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 04:40:03,755 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 04:40:04,056 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 04:40:11,466 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 04:40:11,475 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 05:25:23,015 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 05:25:23,032 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 05:25:23,038 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,040 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,040 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,041 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,042 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,042 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,042 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:23,045 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 05:25:23,353 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:25:24,286 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 05:25:24,295 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 05:25:24,297 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 05:25:24,299 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 05:25:24,482 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 05:25:27,592 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 05:25:27,603 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 05:37:49,910 [79   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2017-08-11 05:37:49,911 [79   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2017-08-11 05:37:49,912 [79   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2017-08-11 05:37:49,912 [79   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2017-08-11 05:37:53,395 [87   ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 05:37:53,678 [87   ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 05:37:53,684 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,686 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,687 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,687 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,687 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,687 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,688 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,688 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,688 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,688 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,688 [87   ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:53,691 [87   ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 05:37:54,525 [87   ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:37:54,726 [87   ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 05:37:54,733 [87   ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 05:37:54,734 [87   ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 05:37:54,736 [87   ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 05:37:54,961 [87   ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 05:37:57,223 [81   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 05:37:57,255 [81   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 05:57:59,210 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 05:57:59,491 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 05:57:59,497 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,499 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,500 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,500 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,500 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,500 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,501 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,501 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,501 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,501 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,501 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:57:59,504 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 05:58:00,358 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 05:58:00,487 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 05:58:00,504 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 05:58:00,506 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 05:58:00,508 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 05:58:00,736 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 05:58:03,397 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 05:58:03,407 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 06:02:20,332 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 06:02:20,350 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 06:02:20,357 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,360 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,360 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,360 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,360 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,360 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,361 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,361 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,361 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,361 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,361 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:20,365 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 06:02:20,670 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 06:02:21,465 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 06:02:21,473 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 06:02:21,474 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 06:02:21,477 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 06:02:21,654 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 06:02:24,865 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 06:02:24,876 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 10:16:15,217 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 10:16:16,087 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 10:16:16,094 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,097 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,097 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,097 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,098 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,098 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,098 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,099 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,099 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,099 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,099 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:16,103 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 10:16:18,379 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:16:18,531 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 10:16:18,541 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 10:16:18,543 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 10:16:18,546 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 10:16:18,862 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 10:16:23,001 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 10:16:23,015 [12   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 10:38:51,497 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 10:38:51,515 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 10:38:51,522 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,525 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,526 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,527 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,527 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,527 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:51,530 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 10:38:51,839 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 10:38:52,808 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 10:38:52,828 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 10:38:52,829 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 10:38:52,832 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 10:38:53,023 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 10:38:56,971 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 10:38:56,982 [7    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 11:23:58,967 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 11:23:58,985 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 11:23:58,992 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,994 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,994 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,994 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,995 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,995 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,995 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,996 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:23:58,999 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 11:23:59,309 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:24:00,117 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 11:24:00,136 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 11:24:00,137 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 11:24:00,140 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 11:24:00,326 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 11:24:04,012 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 11:24:04,028 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 11:31:20,665 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 11:31:20,685 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 11:31:20,692 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,695 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,695 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,695 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,695 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,695 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,696 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,696 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,696 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,696 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,697 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:20,700 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 11:31:21,033 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:31:21,903 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 11:31:21,912 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 11:31:21,914 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 11:31:21,917 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 11:31:22,111 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 11:31:25,531 [5    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 11:31:25,542 [5    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 11:33:14,715 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 11:33:14,734 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 11:33:14,741 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,744 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,744 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,744 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,744 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,744 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,745 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,745 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,745 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,746 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,746 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:14,749 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 11:33:15,071 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:33:15,901 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 11:33:15,909 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 11:33:15,911 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 11:33:15,913 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 11:33:16,099 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 11:33:20,175 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 11:33:20,191 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-11 11:36:14,614 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-11 11:36:14,636 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-11 11:36:14,645 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:14,654 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-11 11:36:14,980 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-11 11:36:15,788 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-11 11:36:15,807 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-11 11:36:15,809 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-11 11:36:15,812 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-11 11:36:15,998 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-11 11:36:19,870 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-11 11:36:19,883 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 11:38:55,692 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 11:38:56,360 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 11:38:56,367 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,370 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,371 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:56,375 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 11:38:58,047 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:38:58,234 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 11:38:58,252 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 11:38:58,254 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 11:38:58,256 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 11:38:58,603 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 11:39:02,593 [13   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 11:39:02,604 [13   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 11:41:32,528 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 11:41:32,547 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 11:41:32,554 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:32,561 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 11:41:32,886 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:41:34,167 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 11:41:34,175 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 11:41:34,177 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 11:41:34,179 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 11:41:34,364 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 11:41:38,439 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 11:41:38,452 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 11:47:44,263 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 11:47:44,284 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 11:47:44,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:44,298 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 11:47:44,618 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:47:45,468 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 11:47:45,487 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 11:47:45,489 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 11:47:45,492 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 11:47:45,678 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 11:47:49,551 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 11:47:49,564 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 11:51:11,874 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 11:51:11,896 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 11:51:11,904 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,906 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,906 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,907 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,907 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,907 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,907 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,908 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,908 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,908 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,908 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:11,912 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 11:51:12,227 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 11:51:13,042 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 11:51:13,062 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 11:51:13,063 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 11:51:13,066 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 11:51:13,253 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 11:51:17,031 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 11:51:17,042 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 12:03:02,391 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 12:03:02,410 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 12:03:02,417 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,419 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,420 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,421 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,421 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,421 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:02,424 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 12:03:02,749 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:03:03,564 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 12:03:03,572 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 12:03:03,574 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 12:03:03,577 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 12:03:03,762 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 12:03:07,382 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 12:03:07,395 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 12:04:55,997 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 12:04:56,434 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 12:04:56,442 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,444 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,445 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,445 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,445 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,445 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,446 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,446 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,446 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,447 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,447 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:56,450 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 12:04:57,529 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:04:57,688 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 12:04:57,707 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 12:04:57,708 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 12:04:57,711 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 12:04:57,972 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 12:05:00,798 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 12:05:00,811 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 12:10:12,258 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 12:10:12,598 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 12:10:12,606 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,609 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,610 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,610 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,610 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,611 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,611 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,612 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,612 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,612 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,612 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:12,615 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 12:10:13,551 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:10:13,697 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 12:10:13,717 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 12:10:13,719 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 12:10:13,722 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 12:10:13,975 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 12:10:16,630 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 12:10:16,640 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 12:26:26,265 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 12:26:26,284 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 12:26:26,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,293 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,294 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,295 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:26,298 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 12:26:26,617 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:26:27,414 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 12:26:27,423 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 12:26:27,424 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 12:26:27,426 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 12:26:27,611 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 12:26:31,760 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 12:26:31,773 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 12:52:03,579 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 12:52:03,598 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 12:52:03,605 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,608 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,608 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,608 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,608 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,609 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,609 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,609 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:03,613 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 12:52:03,931 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 12:52:04,745 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 12:52:04,753 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 12:52:04,754 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 12:52:04,757 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 12:52:04,954 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-14 12:52:08,435 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-14 12:52:08,446 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-14 15:05:00,248 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-14 15:05:00,279 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-14 15:05:00,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,288 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,288 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,288 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,288 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,289 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,289 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,289 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,290 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,290 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,290 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:00,294 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-14 15:05:00,713 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-14 15:05:01,926 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-14 15:05:01,934 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-14 15:05:01,935 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-14 15:05:01,985 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-14 15:05:02,186 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2017-08-14 15:05:16,578 [13   ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2017-08-14 15:05:16,579 [13   ] Abp.BackgroundJobs.BackgroundJobManager  - Stop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2017-08-14 15:05:16,579 [13   ] Abp.BackgroundJobs.BackgroundJobManager  - WaitToStop background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2017-08-14 15:05:16,579 [13   ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2017-08-15 13:07:26,275 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-15 13:07:26,306 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:26,322 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-15 13:07:26,681 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-15 13:07:27,492 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-15 13:07:27,507 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-15 13:07:27,507 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-15 13:07:27,570 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-15 13:07:27,741 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2017-08-21 03:03:40,907 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-21 03:03:41,597 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-21 03:03:41,604 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,607 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,608 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,608 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,608 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,609 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,609 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:41,612 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-21 03:03:43,062 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:03:43,238 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-21 03:03:43,248 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-21 03:03:43,259 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-21 03:03:43,300 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-21 03:03:43,596 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-21 03:03:47,525 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-21 03:03:47,539 [8    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-21 03:16:20,041 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-21 03:16:20,059 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-21 03:16:20,066 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,068 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,069 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,069 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,069 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,069 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,070 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,070 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,070 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,070 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,070 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:20,074 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-21 03:16:20,388 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:16:21,161 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-21 03:16:21,178 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-21 03:16:21,179 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-21 03:16:21,182 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-21 03:16:21,365 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-21 03:16:24,917 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-21 03:16:24,931 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+ERROR 2017-08-21 03:16:31,810 [11   ] Web.Mvc.Controllers.AbpAppViewController - The view '~/App/Main/views/about/about.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/about/about.cshtml
+System.InvalidOperationException: The view '~/App/Main/views/about/about.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/about/about.cshtml
+   en System.Web.Mvc.ViewResult.FindView(ControllerContext context)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2017-08-21 03:18:42,837 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-21 03:18:42,855 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-21 03:18:42,861 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,864 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,864 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,864 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,864 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,864 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,865 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,865 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,865 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,865 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,866 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:42,869 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-21 03:18:43,179 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:18:43,958 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-21 03:18:43,966 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-21 03:18:43,967 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-21 03:18:43,970 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-21 03:18:44,151 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-21 03:18:48,364 [11   ] Abp.Logging.LogHelper                    - Can not find 'Login' in localization source 'AngularMVCTemplate'!
+WARN  2017-08-21 03:18:48,401 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-21 03:18:48,412 [11   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+ERROR 2017-08-21 03:18:54,370 [6    ] Web.Mvc.Controllers.AbpAppViewController - The view '~/App/Main/views/about/login.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/about/login.cshtml
+System.InvalidOperationException: The view '~/App/Main/views/about/login.cshtml' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/App/Main/views/about/login.cshtml
+   en System.Web.Mvc.ViewResult.FindView(ControllerContext context)
+   en System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   en System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   en System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+WARN  2017-08-21 03:20:19,458 [9    ] Abp.Logging.LogHelper                    - Can not find 'Login' in localization source 'AngularMVCTemplate'!
+WARN  2017-08-21 03:20:25,572 [21   ] Abp.Logging.LogHelper                    - Can not find 'Login' in localization source 'AngularMVCTemplate'!
+WARN  2017-08-21 03:22:02,925 [37   ] Abp.Logging.LogHelper                    - Can not find 'Login' in localization source 'AngularMVCTemplate'!
+DEBUG 2017-08-21 03:30:31,673 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-21 03:30:31,691 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-21 03:30:31,697 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,700 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,700 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,700 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,700 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,701 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,701 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,702 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:31,705 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-21 03:30:32,013 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:30:32,770 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-21 03:30:32,789 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-21 03:30:32,791 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-21 03:30:32,794 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-21 03:30:32,972 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-21 03:30:37,250 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-21 03:30:37,262 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-21 03:35:03,346 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-21 03:35:03,639 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-21 03:35:03,646 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:03,654 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-21 03:35:04,457 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-21 03:35:04,595 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-21 03:35:04,614 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-21 03:35:04,615 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-21 03:35:04,618 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-21 03:35:04,856 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-21 03:35:08,599 [14   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-21 03:35:08,612 [14   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-22 17:03:26,205 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-22 17:03:26,233 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-22 17:03:26,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,241 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,241 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:26,246 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-22 17:03:26,561 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-22 17:03:27,936 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-22 17:03:27,946 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-22 17:03:27,947 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-22 17:03:28,020 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-22 17:03:28,208 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-22 17:03:33,572 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-22 17:03:33,584 [9    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-23 06:43:12,116 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-23 06:43:12,963 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-23 06:43:12,970 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,973 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,973 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,973 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,973 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,974 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,974 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,974 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,975 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,975 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,975 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:12,978 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-23 06:43:15,505 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 06:43:15,667 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-23 06:43:15,677 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-23 06:43:15,686 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-23 06:43:15,737 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-23 06:43:16,085 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-23 06:43:20,357 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-23 06:43:20,370 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+DEBUG 2017-08-23 07:05:42,919 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-08-23 07:05:42,938 [1    ] Abp.Modules.AbpModuleManager             - Found 11 ABP modules in total.
+DEBUG 2017-08-23 07:05:42,944 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.Web.AngularMVCTemplateWebModule, AngularMVCTemplate.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,947 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,947 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,947 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,947 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,947 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateDataModule, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,948 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,948 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateCoreModule, AngularMVCTemplate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,948 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateApplicationModule, AngularMVCTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,948 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularMVCTemplate.AngularMVCTemplateWebApiModule, AngularMVCTemplate.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,949 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:42,952 [1    ] Abp.Modules.AbpModuleManager             - 11 modules loaded.
+DEBUG 2017-08-23 07:05:43,274 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularMVCTemplate.EntityFramework.AngularMVCTemplateDbContext, AngularMVCTemplate.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-08-23 07:05:44,999 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2017-08-23 07:05:45,007 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-08-23 07:05:45,008 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-08-23 07:05:45,011 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularMVCTemplate
+DEBUG 2017-08-23 07:05:45,214 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+WARN  2017-08-23 07:05:48,966 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-08-23 07:05:48,978 [6    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
