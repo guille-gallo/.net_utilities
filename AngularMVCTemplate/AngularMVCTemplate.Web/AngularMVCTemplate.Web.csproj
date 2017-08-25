@@ -369,6 +369,8 @@
     <Content Include="Abp\Framework\styles\abp.mixings.css.map" />
     <Content Include="Abp\Framework\styles\abp.less" />
     <Content Include="Abp\Framework\styles\abp.css.map" />
+    <Content Include="App\Main\views\Equipos\Add_View.cshtml" />
+    <Content Include="App\Main\views\Jugadores\Add_View.cshtml" />
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
     <Content Include="Scripts\i18n\angular-locale_af-na.js" />
     <Content Include="Scripts\i18n\angular-locale_af-za.js" />
@@ -1133,6 +1135,8 @@
     <Content Include="Views\_ViewStart.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App\Main\controllers\EquipoController.cs" />
+    <Compile Include="App\Main\controllers\JugadorController.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\AngularMVCTemplateNavigationProvider.cs" />
     <Compile Include="App_Start\AngularMVCTemplateWebModule.cs" />
@@ -1164,6 +1168,8 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Equipo\" />
+    <Folder Include="Views\Jugador\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AngularMVCTemplate.Application\AngularMVCTemplate.Application.csproj">
