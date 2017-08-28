@@ -117,6 +117,10 @@
       <HintPath>..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40\Microsoft.Threading.Tasks.Extensions.Desktop.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.9.9\lib\net45\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -1137,6 +1141,8 @@
   <ItemGroup>
     <Compile Include="App\Main\controllers\EquipoController.cs" />
     <Compile Include="App\Main\controllers\JugadorController.cs" />
+    <Compile Include="App\Main\models\Jugador.cs" />
+    <Compile Include="App\Main\models\Equipo.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\AngularMVCTemplateNavigationProvider.cs" />
     <Compile Include="App_Start\AngularMVCTemplateWebModule.cs" />

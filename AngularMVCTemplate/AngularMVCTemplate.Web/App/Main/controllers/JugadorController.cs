@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Data;
+using System.Configuration;
 
 namespace AngularMVCTemplate.Web.App.Main.controllers
 {
@@ -13,5 +15,11 @@ namespace AngularMVCTemplate.Web.App.Main.controllers
         {
             return View();
         }
+
+        public void Add()
+        {
+            
+        }
+
     }
 }

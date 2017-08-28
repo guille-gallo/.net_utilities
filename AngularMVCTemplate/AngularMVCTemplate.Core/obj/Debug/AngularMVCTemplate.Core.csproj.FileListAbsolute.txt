@@ -63,5 +63,6 @@ C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\A
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Core\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Core\bin\Debug\System.Collections.Immutable.xml
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Core\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Core\obj\Debug\AngularMVCTemplate.Core.csprojResolveAssemblyReference.cache
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Core\obj\Debug\AngularMVCTemplate.Core.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Core\obj\Debug\AngularMVCTemplate.Core.pdb

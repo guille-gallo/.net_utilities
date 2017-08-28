@@ -121,6 +121,7 @@ C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\A
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\MySql.Data.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Newtonsoft.Json.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.Concurrent.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Nito.AsyncEx.dll
@@ -185,6 +186,12 @@ C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\A
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\System.Web.WebPages.Razor.xml
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.xml
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\Abp.EntityFramework.Common.xml
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\bin\es\System.Web.WebPages.Razor.resources.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.csprojResolveAssemblyReference.cache
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.dll
 C:\Users\Guille\Dropbox\AngularMVCTemplate\v.1.3-grilla estatica con bootstrap\AngularMVCTemplate\AngularMVCTemplate.Web\obj\Debug\AngularMVCTemplate.Web.pdb

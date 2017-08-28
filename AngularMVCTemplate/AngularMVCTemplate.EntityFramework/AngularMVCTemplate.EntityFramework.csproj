@@ -120,8 +120,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EntityFramework\AngularMVCTemplateDbContext.cs" />
-    <Compile Include="EntityFramework\Models\Jugador.cs" />
-    <Compile Include="EntityFramework\Models\Equipo.cs" />
     <Compile Include="EntityFramework\Repositories\AngularMVCTemplateRepositoryBase.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="AngularMVCTemplateDataModule.cs" />
